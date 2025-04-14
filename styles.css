@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 70%;
+    height: 60%;
     width: 80%;
     max-width: 280px;
     min-width: 200px;
@@ -34,7 +34,7 @@ body {
     justify-content: center;
     align-items: center;
     /* margin: 1em; */
-    height: 70%;
+    height: 60%;
     width: 100%;
 }
 
